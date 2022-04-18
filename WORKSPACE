@@ -1,0 +1,2 @@
+load("@bazel_tools//tools/build_defs/repo:git.bzl","git_repository")
+git_repository(name = "rootify", remote = "https://github.com/gkgoat1/rootify.git", commit = "361685f7566abbccf0d7393978c3a118e0d0ec7a")
