@@ -1,13 +1,14 @@
 # rules_linux
 
 ## Description
-Project rules_linux
+Bazel build rules for Linux environments (`chroot.bzl`, `tar.bzl`).
 
 ## Goals
-- [ ] Add project goals
+- [ ] Provide Bazel rules for Linux builds
+- [ ] Support chroot and tar operations
 
 ## Progress
-- [ ] Initial setup
+- [ ] Rules defined
 
 ---
 *AI assisted*
